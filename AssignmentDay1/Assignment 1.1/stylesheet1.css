@@ -1,0 +1,28 @@
+.card{
+    
+    width:600px;
+    background-image: linear-gradient(to bottom ,lightgreen,green);
+    margin: 30px auto;
+    border-radius: 20px;
+    border: 1px solid lightgray;
+    padding:100px 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+h1{
+    font-size: 50px;
+}
+.text{
+    font-size: 20px;
+    
+}
+.btn{
+    font-size: 20px;
+    border-radius: 35px;
+    border: none;
+    font-weight: bold;
+    padding:10px 40px;
+    background-color: white;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

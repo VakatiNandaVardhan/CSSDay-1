@@ -1,0 +1,35 @@
+.card{
+    border: 2px solid lightgrey;
+    border-radius: 10px 10px 0px 0px;
+    width: 500px;
+    padding: 20px;
+    margin: 30px auto;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.text{
+    font-size: 30px;
+}
+p{
+    color: lightslategray;
+    padding: 10px;
+    font-size: 20px;
+}
+.imgsection{
+    width: 15%;
+    border-radius: 50%;
+    padding: 0% 10%;
+}
+.card2{
+    border: 2px solid lightgrey;
+    border-radius: 0px 0px 10px 10px;
+    width: 500px;
+    padding: 15px 20px 15px 20px ;
+    margin: -31px auto;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;  
+}
+.endtext{
+    color: rgb(64, 64, 217);
+    font-size: 25px;
+    border: none;
+    background-color: white;
+}
